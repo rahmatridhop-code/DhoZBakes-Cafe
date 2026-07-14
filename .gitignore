@@ -23,4 +23,7 @@ Homestead.json
 Homestead.yaml
 Thumbs.db
 database/database.sqlite
+database/poscafe_export.sql
 test_order.php
+export_db.php
+deploy/
